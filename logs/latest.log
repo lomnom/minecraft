@@ -1,0 +1,509 @@
+[03:16:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:16:17] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[03:16:18] [Worker-Main-4/INFO]: Loaded 7 recipes
+[03:16:22] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[03:16:22] [Server thread/INFO]: Loading properties
+[03:16:23] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-988b411-2a3ca13 (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[03:16:23] [Server thread/INFO]: Debug logging is disabled
+[03:16:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:16:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:16:23] [Server thread/INFO]: Default game type: SURVIVAL
+[03:16:23] [Server thread/INFO]: Generating keypair
+[03:16:23] [Server thread/INFO]: Starting Minecraft server on *:404
+[03:16:24] [Server thread/INFO]: Using epoll channel type
+[03:16:24] [Server thread/ERROR]: Ambiguous plugin name `SinglePlayerSleep' for files `plugins/SinglePlayerSleep-1.13_2.13.45.2.jar' and `plugins/SinglePlayerSleep-1.13_2.13.44.jar' in `plugins'
+[03:16:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0+a51fa43
+[03:16:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@b426d57]
+[03:16:29] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.45.2
+[03:16:29] [Server thread/INFO]: [TabTPS] Loading TabTPS v1.2.0
+[03:16:29] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0+a51fa43
+[03:16:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:16:30] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R2 as the Bukkit adapter
+[03:16:33] [Server thread/WARN]: [WorldEdit] ====================================================
+[03:16:33] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[03:16:33] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[03:16:33] [Server thread/WARN]: [WorldEdit]   
+[03:16:33] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[03:16:33] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[03:16:33] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[03:16:33] [Server thread/WARN]: [WorldEdit]   
+[03:16:33] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[03:16:33] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[03:16:33] [Server thread/WARN]: [WorldEdit]   
+[03:16:33] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[03:16:33] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[03:16:33] [Server thread/WARN]: [WorldEdit]   
+[03:16:33] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[03:16:33] [Server thread/WARN]: [WorldEdit] ====================================================
+[03:16:33] [Server thread/INFO]: Preparing level "The Official 6.1 Java Edition Server"
+[03:16:33] [Server thread/INFO]: -------- World Settings For [The Official 6.1 Java Edition Server] --------
+[03:16:33] [Server thread/INFO]: Mob Spawn Range: 6
+[03:16:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:16:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:16:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:16:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:16:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:16:33] [Server thread/INFO]: Max TNT Explosions: 100
+[03:16:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:16:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:16:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:16:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:16:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:16:33] [Server thread/INFO]: View Distance: 10
+[03:16:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:16:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:16:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:16:33] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:16:34] [Server thread/INFO]: -------- World Settings For [The Official 6.1 Java Edition Server_nether] --------
+[03:16:34] [Server thread/INFO]: Mob Spawn Range: 6
+[03:16:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:16:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:16:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:16:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:16:34] [Server thread/INFO]: Max TNT Explosions: 100
+[03:16:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:16:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:16:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:16:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:16:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:16:34] [Server thread/INFO]: View Distance: 10
+[03:16:34] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:16:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:16:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:16:34] [Server thread/INFO]: -------- World Settings For [The Official 6.1 Java Edition Server_the_end] --------
+[03:16:34] [Server thread/INFO]: Mob Spawn Range: 6
+[03:16:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:16:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:16:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:16:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:16:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[03:16:34] [Server thread/INFO]: Max TNT Explosions: 100
+[03:16:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:16:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:16:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:16:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:16:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:16:34] [Server thread/INFO]: View Distance: 10
+[03:16:34] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:16:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:16:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:16:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:38] [Server thread/INFO]: Preparing spawn area: 29%
+[03:16:39] [Server thread/INFO]: Time elapsed: 4452 ms
+[03:16:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:43] [Server thread/INFO]: Time elapsed: 3780 ms
+[03:16:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:16:44] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:44] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:44] [Server thread/INFO]: Preparing spawn area: 0%
+[03:16:44] [Server thread/INFO]: Time elapsed: 1451 ms
+[03:16:44] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.45.2
+[03:16:44] [Server thread/INFO]: [1m[32m**************************************[0m
+[03:16:44] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m Loading...
+[03:16:44] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m plugins/SinglePlayerSleep/config.yml
+[03:16:44] [Server thread/INFO]: Checking for updates...[m
+[03:16:54] [Server thread/INFO]: [0;31;1mCould not process update check[m
+[03:16:54] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m plugins/SinglePlayerSleep/permissions.yml
+[03:16:54] [Server thread/INFO]: [1m[32m**************************************[0m
+[03:16:54] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m is ENABLED
+[03:16:54] [Server thread/INFO]: [1m[32m**************************************[0m
+[03:16:54] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m This server is running CraftBukkit version git-Spigot-988b411-2a3ca13 (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[03:16:54] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m vardebug=false debug=false in plugins/SinglePlayerSleep/config.yml
+[03:16:54] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m jarfilename=/home/minecraft/plugins/SinglePlayerSleep-1.13_2.13.45.2.jar
+[03:16:54] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.2.0
+[03:16:55] [Server thread/INFO]: [TabTPS] You are not using Paper, and therefore NMS methods must be used to get TPS and MSPT.
+[03:16:55] [Server thread/INFO]: [TabTPS] Please consider upgrading to Paper for better performance and compatibility at https://papermc.io/downloads
+[03:16:55] [Server thread/INFO]: [TabTPS] Loaded NMS support for v1_16_R2
+[03:16:56] [Server thread/INFO]: [TabTPS] Successfully registered Mojang Brigadier support for commands.
+[03:16:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:16:57] [Server thread/INFO]: Done (23.817s)! For help, type "help"
+[03:17:07] [Craft Scheduler Thread - 1/INFO]: [TabTPS] Cannot look for updates: api.github.com
+[03:17:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@534f8752[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58347): Took too long to log in
+[03:17:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@534f8752[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58347) lost connection: Took too long to log in
+[03:19:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@39d4163[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58348) lost connection: Timed out
+[03:20:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@50189ec9[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58349) lost connection: Timed out
+[03:21:01] [Server thread/INFO]: [0;33;22mTPS from last 1m, 5m, 15m: [0;32;1m*20.0, [0;32;1m*20.0, [0;32;1m*20.0[m
+[03:21:01] [Server thread/INFO]: [0;33;22mCurrent Memory Usage: [0;32;1m830/2048 mb (Max: 3504 mb)[m
+[03:21:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d009bc6[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58350) lost connection: Timed out
+[03:23:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@1196425c[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58351) lost connection: Timed out
+[03:25:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@5070cbae[id=<null>,name=de_lom_nom,properties={},legacy=false] (/192.168.50.112:58353) lost connection: Disconnected
+[03:26:46] [User Authenticator #1/INFO]: UUID of player de_lom_nom is 58dda7ab-7860-41ba-918a-e96485a506b0
+[03:26:49] [Server thread/INFO]: de_lom_nom[/192.168.50.112:58365] logged in with entity id 279 at ([The Official 6.1 Java Edition Server]-743.9454065178132, 150.89624893979456, 353.09476464396556)
+[03:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[03:29:56] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8839ms or 176 ticks behind
+[03:30:12] [User Authenticator #2/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[03:30:12] [Server thread/INFO]: ang_yts[/119.56.106.70:38238] logged in with entity id 3126 at ([The Official 6.1 Java Edition Server]-572.6635204225388, 62.07326465953448, 1738.5998554837354)
+[03:30:19] [Async Chat Thread - #0/INFO]: <de_lom_nom> dns went down[m
+[03:30:23] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:30:27] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:30:34] [Server thread/INFO]: de_lom_nom issued server command: /seed
+[03:30:36] [Async Chat Thread - #0/INFO]: <ang_yts> what happened?[m
+[03:30:54] [Async Chat Thread - #0/INFO]: <de_lom_nom> the internet lan cable showed red on main router[m
+[03:31:05] [Async Chat Thread - #0/INFO]: <ang_yts> crap i was tugging horses and the lead just disappears[m
+[03:31:09] [Async Chat Thread - #0/INFO]: <ang_yts> dmm[m
+[03:31:26] [Async Chat Thread - #0/INFO]: <ang_yts> i think one of the network bridge is wonky[m
+[03:31:38] [Async Chat Thread - #0/INFO]: <ang_yts> have to buy a new on[m
+[03:31:59] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5834ms or 116 ticks behind
+[03:32:11] [Server thread/INFO]: ang_yts lost connection: Disconnected
+[03:32:11] [Server thread/INFO]: ang_yts left the game
+[03:32:17] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:33:46] [User Authenticator #3/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[03:33:46] [Server thread/INFO]: ang_yts[/119.56.106.70:44910] logged in with entity id 5591 at ([The Official 6.1 Java Edition Server]-574.4246376071198, 62.21904045684179, 1735.4026989582374)
+[03:33:47] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:33:50] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7585ms or 151 ticks behind
+[03:33:57] [Server thread/WARN]: de_lom_nom moved too quickly! 0.0,10.312500409781961,0.0
+[03:34:47] [Server thread/INFO]: de_lom_nom issued server command: //pos2
+[03:35:03] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:35:05] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:35:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8563ms or 171 ticks behind
+[03:35:53] [User Authenticator #4/INFO]: UUID of player HakunaMyTata is eed16d61-e631-4488-af6b-1f2b253a0407
+[03:35:54] [Server thread/INFO]: HakunaMyTata[/103.6.150.105:4676] logged in with entity id 7086 at ([The Official 6.1 Java Edition Server]542.5511731923837, 96.0, 470.42604007827816)
+[03:36:03] [Async Chat Thread - #1/INFO]: <HakunaMyTata> smo sleep[m
+[03:36:06] [Server thread/INFO]: de_lom_nom issued server command: /seed
+[03:36:13] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/5703, l='ServerLevel[The Official 6.1 Java Edition Server]', x=-646.42, y=68.00, z=1716.48] died, message: 'Leatherworker was slain by Zombie'
+[03:36:23] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:36:25] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6202ms or 124 ticks behind
+[03:36:32] [Server thread/WARN]: HakunaMyTata moved too quickly! -2.9455623575568097,-6.688388792827382,-8.60806954104902
+[03:36:32] [Server thread/WARN]: HakunaMyTata moved too quickly! -2.75417492734357,-5.844478247056884,-8.60806954104902
+[03:36:53] [Async Chat Thread - #1/INFO]: <ang_yts> i cant im at the sea[m
+[03:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[03:37:47] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:37:49] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:37:57] [Server thread/INFO]: death.fell.accident.water
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.292104633849021,0.0,-19.488749658356937
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.290610118353982,0.0,-19.885675680581016
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.282483263572942,0.0,-20.282329990123117
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.266985966263292,0.0,-20.67847286728488
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.243605896031852,0.0,-21.073873387510957
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.222563833380946,0.0,-21.42973384628749
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.203625977496813,0.0,-21.750008250701967
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.186581907652624,0.0,-22.0382552070389
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.17124224519921,0.0,-22.297677460869863
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.1574365493568735,0.0,-22.531157483132574
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.1450114234278885,0.0,-22.741289497602565
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.133828810388081,0.0,-22.93040830561563
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.123764458918856,0.0,-23.100615228318475
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.1147065428365295,0.0,-23.253801454692848
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.106554418578355,0.0,-23.391669054777594
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.099217506940363,0.0,-23.515749891566884
+[03:37:57] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -5.092614286641094,0.0,-23.627422641718795
+[03:38:03] [Async Chat Thread - #2/INFO]: <HakunaMyTata> ???[m
+[03:38:06] [Async Chat Thread - #2/INFO]: <de_lom_nom> wok[m
+[03:38:08] [Async Chat Thread - #2/INFO]: <HakunaMyTata> u died cuz of lag[m
+[03:38:08] [Async Chat Thread - #2/INFO]: <ang_yts> what was that?[m
+[03:38:17] [Async Chat Thread - #2/INFO]: <HakunaMyTata> francis[m
+[03:38:18] [Async Chat Thread - #2/INFO]: <ang_yts> who?[m
+[03:38:20] [Async Chat Thread - #2/INFO]: <HakunaMyTata> i died cuz of lag[m
+[03:38:20] [Async Chat Thread - #2/INFO]: <de_lom_nom> who[m
+[03:38:24] [Async Chat Thread - #2/INFO]: <de_lom_nom> nani[m
+[03:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9908ms or 198 ticks behind
+[03:38:26] [Async Chat Thread - #2/INFO]: <HakunaMyTata> i fell into water wth[m
+[03:38:31] [Async Chat Thread - #2/INFO]: <HakunaMyTata> and then i died[m
+[03:38:34] [Async Chat Thread - #2/INFO]: <de_lom_nom> huh[m
+[03:38:48] [Async Chat Thread - #2/INFO]: <HakunaMyTata> i fell from a high place but i landed in water[m
+[03:38:50] [Async Chat Thread - #2/INFO]: <HakunaMyTata> then i died[m
+[03:39:04] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:39:06] [Async Chat Thread - #2/INFO]: <HakunaMyTata> its cuz of lag[m
+[03:39:06] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:39:11] [Async Chat Thread - #2/INFO]: <HakunaMyTata> francis i need my stuff[m
+[03:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8601ms or 172 ticks behind
+[03:39:16] [Async Chat Thread - #2/INFO]: <de_lom_nom> whr u died[m
+[03:39:32] [Server thread/INFO]: de_lom_nom issued server command: /tp de_lom_nom HakunaMyTata
+[03:39:32] [Server thread/INFO]: [de_lom_nom: Teleported de_lom_nom to HakunaMyTata]
+[03:39:41] [Async Chat Thread - #2/INFO]: <HakunaMyTata> um[m
+[03:39:42] [Async Chat Thread - #2/INFO]: <de_lom_nom> whr u die[m
+[03:39:45] [Async Chat Thread - #2/INFO]: <HakunaMyTata> bring me to sky farm[m
+[03:40:15] [Server thread/INFO]: de_lom_nom issued server command: /tp HakunaMyTata de_lom_nom
+[03:40:15] [Server thread/INFO]: [de_lom_nom: Teleported HakunaMyTata to de_lom_nom]
+[03:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[03:40:24] [Async Chat Thread - #2/INFO]: <de_lom_nom> then[m
+[03:41:34] [Async Chat Thread - #3/INFO]: <de_lom_nom> ok[m
+[03:41:50] [Async Chat Thread - #3/INFO]: <HakunaMyTata> did u upgrade router eyt[m
+[03:41:58] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8311ms or 166 ticks behind
+[03:42:06] [Server thread/WARN]: HakunaMyTata moved too quickly! 0.09526107031240372,10.500000018664622,-0.17753060389779307
+[03:42:10] [Server thread/INFO]: de_lom_nom issued server command: //undo
+[03:42:10] [Async Chat Thread - #3/INFO]: <ang_yts> yeah, still got 1 more thing to upgrade[m
+[03:42:21] [Async Chat Thread - #3/INFO]: <HakunaMyTata> wow dragon head[m
+[03:42:25] [Server thread/INFO]: ang_yts lost connection: Disconnected
+[03:42:25] [Server thread/INFO]: ang_yts left the game
+[03:42:26] [Async Chat Thread - #3/INFO]: <HakunaMyTata> did u get elytra alr?[m
+[03:42:30] [User Authenticator #5/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[03:42:31] [Server thread/INFO]: ang_yts[/119.56.106.70:41506] logged in with entity id 12859 at ([The Official 6.1 Java Edition Server]-934.70740354157, 63.085764043234896, 1195.4071062618862)
+[03:42:39] [Async Chat Thread - #3/INFO]: <HakunaMyTata> did you get the elytra?[m
+[03:42:47] [Async Chat Thread - #3/INFO]: <ang_yts> nope[m
+[03:42:54] [Async Chat Thread - #3/INFO]: <HakunaMyTata> then how do you have a dragon head[m
+[03:43:01] [Server thread/ERROR]: Block at -933, 56, 1,201 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@15041182. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:43:01] [Server thread/ERROR]: Block at -933, 56, 1,201 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@15041182. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:43:01] [Server thread/ERROR]: Block at -933, 56, 1,201 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@15041182. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:43:21] [Server thread/INFO]: ang_yts lost connection: Timed out
+[03:43:21] [Server thread/INFO]: ang_yts left the game
+[03:43:32] [User Authenticator #6/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[03:43:32] [Server thread/INFO]: ang_yts[/119.56.106.70:39750] logged in with entity id 13605 at ([The Official 6.1 Java Edition Server]-932.3860427730748, 62.60062049292018, 1196.097191418934)
+[03:43:39] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:43:41] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7918ms or 158 ticks behind
+[03:43:57] [Server thread/INFO]: de_lom_nom issued server command: //undo
+[03:44:24] [Async Chat Thread - #4/INFO]: <HakunaMyTata> i wish my dad also plays minecraft :([m
+[03:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6694ms or 133 ticks behind
+[03:44:31] [Async Chat Thread - #4/INFO]: <ang_yts> LOL[m
+[03:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5958ms or 119 ticks behind
+[03:45:54] [Server thread/WARN]: de_lom_nom moved too quickly! 21.281840662084505,0.0,5.975301531036621
+[03:45:56] [Server thread/WARN]: Entity EntityPlayer['de_lom_nom'/279, l='ServerLevel[The Official 6.1 Java Edition Server]', x=1328.39, y=100.04, z=1067.06](de_lom_nom at 1328.388315615166,100.03826876166532,1067.0560296055044) left loaded chunk area
+[03:46:10] [Server thread/INFO]: de_lom_nom issued server command: //chunk
+[03:46:13] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:46:20] [Server thread/WARN]: de_lom_nom moved too quickly! 0.0,-11.062498765768055,0.0
+[03:46:29] [Server thread/INFO]: de_lom_nom issued server command: //undo
+[03:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[03:47:25] [Async Chat Thread - #5/INFO]: <HakunaMyTata> francis[m
+[03:47:36] [Async Chat Thread - #5/INFO]: <HakunaMyTata> do u use the encahnting table at ur base?[m
+[03:47:39] [Async Chat Thread - #5/INFO]: <HakunaMyTata> not the sky farm one[m
+[03:47:40] [Async Chat Thread - #5/INFO]: <de_lom_nom> i see corruption everwwhr[m
+[03:47:44] [Async Chat Thread - #5/INFO]: <de_lom_nom> yes[m
+[03:47:51] [Async Chat Thread - #5/INFO]: <HakunaMyTata> oh[m
+[03:48:13] [Server thread/INFO]: de_lom_nom issued server command: //tell @e help! (ignore this 730 69 1034
+[03:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[03:48:29] [Async Chat Thread - #5/INFO]: <de_lom_nom> ill have to load it in world edit[m
+[03:48:35] [Async Chat Thread - #5/INFO]: <HakunaMyTata> i shall do afk[m
+[03:48:53] [Server thread/WARN]: de_lom_nom moved too quickly! -43.29373602281703,0.0,23.10592881095863
+[03:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7744ms or 154 ticks behind
+[03:49:17] [Server thread/ERROR]: Block at -917, 54, 1,199 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@10aec8b1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:49:17] [Server thread/ERROR]: Block at -917, 54, 1,199 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@10aec8b1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:49:17] [Server thread/ERROR]: Block at -917, 54, 1,199 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@10aec8b1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:49:32] [Server thread/INFO]: de_lom_nom issued server command: //regen
+[03:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10068ms or 201 ticks behind
+[03:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[03:50:24] [Async Chat Thread - #6/INFO]: <ang_yts> what is suspicious stew[m
+[03:50:40] [Async Chat Thread - #6/INFO]: <de_lom_nom> it gives you a random effect[m
+[03:50:44] [Async Chat Thread - #6/INFO]: <HakunaMyTata> its a weird kind of food[m
+[03:50:53] [Async Chat Thread - #6/INFO]: <ang_yts> lol[m
+[03:50:57] [Async Chat Thread - #6/INFO]: <ang_yts> i got 2 from a chst[m
+[03:51:02] [Async Chat Thread - #6/INFO]: <HakunaMyTata> do you want to go mining netherite?[m
+[03:51:16] [Async Chat Thread - #6/INFO]: <de_lom_nom> the nether is corrupted[m
+[03:51:17] [Async Chat Thread - #6/INFO]: <HakunaMyTata> if u get the sand[m
+[03:51:22] [Async Chat Thread - #6/INFO]: <ang_yts> im xploring the shipwrect[m
+[03:51:22] [Async Chat Thread - #6/INFO]: <HakunaMyTata> oh[m
+[03:51:24] [Async Chat Thread - #6/INFO]: <de_lom_nom> every new chunk is corruped[m
+[03:51:29] [Async Chat Thread - #6/INFO]: <de_lom_nom> i dont recommend[m
+[03:51:45] [Async Chat Thread - #6/INFO]: <HakunaMyTata> but i want tog et entherite[m
+[03:51:54] [Async Chat Thread - #6/INFO]: <de_lom_nom> ill load this tnto worldedit and take out uninhabited chunks[m
+[03:51:58] [Async Chat Thread - #6/INFO]: <de_lom_nom> u can go minin[m
+[03:52:02] [Async Chat Thread - #6/INFO]: <HakunaMyTata> ok[m
+[03:52:05] [Async Chat Thread - #6/INFO]: <HakunaMyTata> can we mine togetehr[m
+[03:52:10] [Async Chat Thread - #6/INFO]: <HakunaMyTata> in cluding your dad[m
+[03:52:17] [Async Chat Thread - #6/INFO]: <de_lom_nom> but the tunnels will reset after i load the good world[m
+[03:52:18] [Async Chat Thread - #6/INFO]: <ang_yts> ok[m
+[03:52:23] [Async Chat Thread - #6/INFO]: <HakunaMyTata> if you give the sand ill give the gunpowder[m
+[03:52:27] [Async Chat Thread - #6/INFO]: <de_lom_nom> ill be extractin good chunks[m
+[03:52:31] [Async Chat Thread - #6/INFO]: <de_lom_nom> bai[m
+[03:52:33] [Server thread/INFO]: de_lom_nom lost connection: Disconnected
+[03:52:33] [Server thread/INFO]: de_lom_nom left the game
+[03:52:51] [Server thread/ERROR]: Block at -927, 54, 1,200 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@a19e34e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:52:51] [Server thread/ERROR]: Block at -927, 54, 1,200 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@a19e34e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:52:51] [Server thread/ERROR]: Block at -927, 54, 1,200 is Block{minecraft:water} but has net.minecraft.server.v1_16_R2.TileEntityChest@a19e34e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[03:53:41] [Async Chat Thread - #7/INFO]: <ang_yts> i have a clock[m
+[03:53:45] [Async Chat Thread - #7/INFO]: <ang_yts> how do i use it?[m
+[03:53:52] [Async Chat Thread - #7/INFO]: <HakunaMyTata> just put it on an item frame[m
+[03:53:59] [Async Chat Thread - #7/INFO]: <HakunaMyTata> then it will show you the time[m
+[03:54:00] [Async Chat Thread - #7/INFO]: <ang_yts> oh[m
+[03:54:05] [Async Chat Thread - #7/INFO]: <HakunaMyTata> its good for like underground bases[m
+[03:59:03] [Async Chat Thread - #8/INFO]: <HakunaMyTata> but why did the corruption happen[m
+[03:59:19] [Async Chat Thread - #8/INFO]: <ang_yts> the previous server was wak[m
+[03:59:20] [Async Chat Thread - #8/INFO]: <ang_yts> weak[m
+[03:59:24] [Async Chat Thread - #8/INFO]: <ang_yts> it was too low on ram[m
+[03:59:29] [Async Chat Thread - #8/INFO]: <ang_yts> it shut down without saving[m
+[03:59:32] [Async Chat Thread - #8/INFO]: <HakunaMyTata> oh[m
+[04:00:01] [Async Chat Thread - #8/INFO]: <HakunaMyTata> so how much ram will be allocataed when the upgrade is done/[m
+[04:00:10] [Async Chat Thread - #8/INFO]: <ang_yts> this time we have 8GB[m
+[04:00:15] [Async Chat Thread - #8/INFO]: <HakunaMyTata> nice[m
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -19.294808054992018,0.0,6.417286359196851
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -20.118513252000866,0.0,-0.43229489155078227
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -20.498258834144508,0.0,-0.3208205368785002
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -20.876918645855994,0.0,-0.2050269898722945
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -21.25453568791943,0.0,-0.08519069394674261
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -21.631154058984976,0.0,0.03842517593670891
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.006820522163025,0.0,0.16556593401060127
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.381581358928656,0.0,0.2959916417048589
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.75548250669226,0.0,0.4294756720425994
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -23.128569686338096,0.0,0.5658034175953617
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -23.500888502108182,0.0,0.7047711201930724
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -23.87248295197446,0.0,0.8461883194363509
+[04:05:12] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -24.243395636694572,0.0,0.9898765415448452
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 109.91709506431619,0.0,-44.83576475458426
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.3739731053919
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 91.15905242393342,0.0,-46.049820284867565
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 44.09127186097851
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 43.81766027938257
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 90.14694386856081,0.0,-45.43135325509911
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 89.80098813716916,0.0,-45.24202936990059
+[04:05:19] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 89.45109438525492,0.0,-45.06090654945706
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 89.09749051288622,0.0,-44.88777928455943
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 88.74040788223954,0.0,-44.72239813866895
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 88.3800746756483,0.0,-44.56448824646236
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 88.01671338981726,0.0,-44.413755032521294
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 87.65053973545537,0.0,-44.269885739963684
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 41.77366452397172
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 41.59176439245833
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 86.53715664025151,0.0,-43.87623645688359
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 86.16169191647111,0.0,-43.756596238078146
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 85.7843398445342,0.0,-43.64221385417591
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 85.40525247636776,0.0,-43.53278290297544
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 85.02457149412942,0.0,-43.42800509846643
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 40.67245381765655
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 40.54616847507408
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 83.87423700272006,0.0,-43.13874898821973
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 83.48840421400678,0.0,-43.04980686659269
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 83.10154380220308,0.0,-42.96419338578767
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 82.7137442543301,0.0,-42.88167823609092
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 82.32508650510579,0.0,-42.80204657596073
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 81.93564513921012,0.0,-42.72509367377211
+[04:05:20] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 81.54548796085624,0.0,-42.65063149222601
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 81.15467762923674,0.0,-42.57847940907982
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 80.76327162540838,0.0,-42.50846727217754
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 80.37132225974062,0.0,-42.440438151772014
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 79.97887764347035,0.0,-42.374243210105305
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 79.58598161315126,0.0,-42.30974469573084
+[04:05:21] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 79.19267460515744,0.0,-42.246811026238674
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 78.83869830734011,0.0,-42.19017072519614
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 78.52011964774397,0.0,-42.139194455608276
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 78.233398861703,0.0,-42.09331581419451
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 77.97535016110203,0.0,-42.05202503801593
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 32.21772444644557
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 32.18427891951296
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 32.15417794607106
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.127087070691005
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.102705283494743
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.080761675599433
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.061012429016955
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.04323810756364
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.027241218679364
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 31.012844019064914
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 30.999886539755153
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 30.988224808685345
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 28.977729251000483
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 28.968283249334263
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 28.95912414794134
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved wrongly! 28.95006017399737
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 76.01253808015849,0.0,-41.73798905791682
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.95698261688585,0.0,-41.72835678587239
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.8690890930526,0.0,-41.70687859227246
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.75275705093907,0.0,-41.67291655975214
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.6115053842799,0.0,-41.626106027389824
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.4484926781962,0.0,-41.56630793521572
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.26654242927327,0.0,-41.49356279850804
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 75.06816858602599,0.0,-41.408053443946756
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 74.85560208924426,0.0,-41.31007227681539
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 74.63081563747198,0.0,-41.19999592861723
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 74.39554814778148,0.0,-41.07826317381091
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 74.15132857723552,0.0,-40.94535577944339
+[04:05:23] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 73.89949657989212,0.0,-40.80178504912624
+[04:05:24] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 73.64122448439696,0.0,-40.64807717941767
+[04:05:24] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 73.37753334852573,0.0,-40.484766683643784
+[04:05:24] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 73.1093103866416,0.0,-40.3123878023041
+[04:05:24] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 72.83732279921162,0.0,-40.13147008422038
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.458758776066134,0.0,17.93443995509847
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.53593265282143,0.0,17.946972338987052
+[04:05:31] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! -22.643207188210567,0.0,17.971282026248673
+[04:05:41] [Async Chat Thread - #9/INFO]: <HakunaMyTata> what the-[m
+[04:05:42] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 47.74214080054753,0.0,28.951743226796452
+[04:05:42] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 47.74214080054753,0.0,28.951743226796452
+[04:05:42] [Server thread/WARN]: Boat (vehicle of ang_yts) moved too quickly! 47.74214080054753,0.0,28.951743226796452
+[04:05:56] [Async Chat Thread - #9/INFO]: <ang_yts> is it just me?[m
+[04:06:07] [Async Chat Thread - #9/INFO]: <ang_yts> something[m
+[04:06:10] [Async Chat Thread - #9/INFO]: <HakunaMyTata> someone released half of the villagers[m
+[04:06:10] [Server thread/INFO]: ang_yts lost connection: Disconnected
+[04:06:10] [Server thread/INFO]: ang_yts left the game
+[04:06:13] [User Authenticator #7/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[04:06:13] [Server thread/INFO]: ang_yts[/119.56.106.70:35695] logged in with entity id 23582 at ([The Official 6.1 Java Edition Server]-1020.5641968705132, 62.073264055155825, 1252.2775045141082)
+[04:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10346ms or 206 ticks behind
+[04:06:32] [Async Chat Thread - #9/INFO]: <HakunaMyTata> someone released half of the villagers!1![m
+[04:06:41] [Async Chat Thread - #9/INFO]: <ang_yts> OMG[m
+[04:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13051ms or 261 ticks behind
+[04:07:36] [Server thread/INFO]: ang_yts lost connection: Disconnected
+[04:07:36] [Server thread/INFO]: ang_yts left the game
+[04:07:41] [User Authenticator #8/INFO]: UUID of player ang_yts is acc24aec-7b51-43e3-bf1b-a6ba655b2a79
+[04:07:41] [Server thread/INFO]: ang_yts[/119.56.106.70:43846] logged in with entity id 24229 at ([The Official 6.1 Java Edition Server]-1171.2721095890777, 63.085764043234896, 1191.5927038272978)
+[04:07:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14082ms or 281 ticks behind

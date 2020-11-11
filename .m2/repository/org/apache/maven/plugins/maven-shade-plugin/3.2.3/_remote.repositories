@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 07 01:42:49 UTC 2020
+maven-shade-plugin-3.2.3.jar>spigotmc-public=
+maven-shade-plugin-3.2.3.pom>spigotmc-public=

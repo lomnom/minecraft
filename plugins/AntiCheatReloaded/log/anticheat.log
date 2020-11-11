@@ -1,0 +1,46 @@
+[INFO|3:03:39]: ACR > ang_yts failed Speed (x8) | type: jumpbehaviour, ping: 3ms, tps: 20 
+[INFO|3:03:43]: ACR > ang_yts failed BadPackets (x8) | ping: 3ms, tps: 20 
+[INFO|3:03:43]: ACR > ang_yts failed BadPackets (x16) | ping: 3ms, tps: 20 
+[INFO|3:03:43]: ACR > ang_yts failed BadPackets (x24) | ping: 3ms, tps: 20 
+[INFO|3:03:43]: ACR > ang_yts failed BadPackets (x32) | ping: 3ms, tps: 20 
+[INFO|3:03:43]: ACR > ang_yts failed Speed (x16) | type: jumpbehaviour, ping: 3ms, tps: 16.5 
+[INFO|3:03:46]: ACR > ang_yts failed Speed (x24) | type: jumpbehaviour, ping: 3ms, tps: 20 
+[INFO|3:03:52]: ACR > ang_yts failed Speed (x32) | type: jumpbehaviour, ping: 2ms, tps: 20 
+[INFO|3:04:31]: ACR > ang_yts was kicked for cheating (WaterWalk) 
+[INFO|3:04:56]: ACR > ang_yts failed BoatFly (x8) | ping: 1275ms, tps: 20 
+[INFO|3:18:43]: ACR > ang_yts failed FastPlace (x8) | ping: 13ms, tps: 16.5 
+[INFO|3:18:45]: ACR > ang_yts failed FastPlace (x16) | ping: 13ms, tps: 20 
+[INFO|3:23:43]: ACR > ang_yts failed BadPackets (x40) | ping: 4ms, tps: 20 
+[INFO|3:23:43]: ACR > ang_yts failed BadPackets (x48) | ping: 4ms, tps: 20 
+[INFO|3:23:43]: ACR > ang_yts failed BadPackets (x56) | ping: 4ms, tps: 20 
+[INFO|3:23:43]: ACR > ang_yts failed BadPackets (x64) | ping: 4ms, tps: 20 
+[INFO|3:23:43]: ACR > ang_yts was kicked for cheating (BadPackets) 
+[INFO|3:25:29]: ACR > ang_yts was kicked for cheating (Speed) 
+[INFO|3:43:16]: ACR > HakunaMyTata failed Flight (x8) | type: airflight, ping: 7ms, tps: 20 
+[INFO|3:46:30]: ACR > HakunaMyTata failed Flight (x16) | type: airflight, ping: 7ms, tps: 20 
+[INFO|4:07:21]: ACR > ang_yts failed IllegalInteract (x8) | type: place, ping: 3ms, tps: 3.94 
+[INFO|4:09:18]: ACR > EliteCrunch527 failed KillAura (x8) | type: reach, ping: 9ms, tps: 16.51 
+[INFO|4:14:58]: ACR > ToxicShadowZXD failed FastHeal (x8) | ping: 18ms, tps: 20 
+[INFO|4:30:38]: ACR > ang_yts failed Flight (x8) | type: airclimb, ping: 2ms, tps: 20 
+[INFO|4:46:04]: ACR > HakunaMyTata failed IllegalInteract (x8) | type: place, ping: 7ms, tps: 20 
+[INFO|4:50:19]: ACR > ToxicShadowZXD failed Speed (x8) | type: airspeed, ping: 16ms, tps: 20 
+[INFO|4:55:12]: ACR > ToxicShadowZXD failed FastHeal (x16) | ping: 16ms, tps: 20 
+[INFO|4:57:32]: ACR > HakunaMyTata failed FastHeal (x8) | ping: 7ms, tps: 19.32 
+[INFO|5:26:00]: ACR > HakunaMyTata failed FastHeal (x16) | ping: 9ms, tps: 20 
+[INFO|5:26:07]: ACR > HakunaMyTata failed IllegalInteract (x16) | type: break, ping: 9ms, tps: 20 
+[INFO|5:39:55]: ACR > HakunaMyTata failed Speed (x8) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|5:39:56]: ACR > HakunaMyTata failed Speed (x16) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|5:39:57]: ACR > HakunaMyTata failed ItemSpam (x8) | ping: 7ms, tps: 20 
+[INFO|5:42:19]: ACR > HakunaMyTata failed Speed (x24) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|5:44:00]: ACR > HakunaMyTata failed Speed (x32) | type: airspeed, ping: 14ms, tps: 20 
+[INFO|5:49:09]: ACR > ToxicShadowZXD failed FastHeal (x24) | ping: 15ms, tps: 20 
+[INFO|5:51:19]: ACR > HakunaMyTata failed FastHeal (x24) | ping: 7ms, tps: 20 
+[INFO|5:51:43]: ACR > HakunaMyTata failed FastHeal (x32) | ping: 7ms, tps: 20 
+[INFO|5:54:20]: ACR > HakunaMyTata failed IllegalInteract (x24) | type: place, ping: 7ms, tps: 20 
+[INFO|5:57:14]: ACR > HakunaMyTata failed Speed (x40) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|5:57:14]: ACR > HakunaMyTata failed Speed (x48) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|6:08:14]: ACR > HakunaMyTata failed IllegalInteract (x32) | type: interact, ping: 9ms, tps: 20 
+[INFO|7:24:11]: ACR > HakunaMyTata failed FastHeal (x40) | ping: 9ms, tps: 20 
+[INFO|7:45:42]: ACR > HakunaMyTata failed FastHeal (x48) | ping: 7ms, tps: 20 
+[INFO|7:48:31]: ACR > HakunaMyTata failed Speed (x56) | type: airspeed, ping: 7ms, tps: 20 
+[INFO|7:49:00]: ACR > HakunaMyTata failed Speed (x64) | type: airspeed, ping: 9ms, tps: 16.03 
